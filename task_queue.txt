@@ -1,0 +1,1 @@
+- Change the final score phase to look similar to the round score phase - also include an additional scoring animation of ending bonuses beforehand
